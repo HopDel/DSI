@@ -4,7 +4,7 @@ hw1. Scrape a website with product you want to of your choosing and output a lis
 (e.g. https://www.sbazar.cz/hledej/macbook?cena-dohodou=bez , https://www.mmreality.cz/nemovitosti/ , ...) (hint: BeautifulSoup)
 hw2. Clustering of seaborn penguins dataset.
 hw3. Classification of gender hw3_gender_classification.zip. 
-hw4. One of garbage classification (CV) of cyber bullying classification (NLP).
+hw4. Call Center Optimization (D4) or garbage classification (CV) of cyber bullying classification (NLP).
 
 Everything should be runnable on google colabs. 
 
